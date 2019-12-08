@@ -2,7 +2,7 @@
 
 
 
-**Tested with version PrusaSlicer 2.1.0, PrusaSlicer 2.0.0, Slic3r PE 1.41.2 and 1.42.0 Beta 1**
+**Optimized for PrusaSlicer 2.1.0**
 earlier versions may generate different code patterns and may not work correctly
 
 ## Changelog
